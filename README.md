@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Hanshika Mehta</h1>
 <h3 align="center">A frontend developer </h3>
-<img align ="right" width="400" 
+<img align ="right" width="500" 
 
-- -🌱 I’m currently learning **Django , AI**
+> 🌱 I’m currently learning **Django , AI**
 
-- -👯 I’m looking to collaborate on **Amazing Projects**
+> 👯 I’m looking to collaborate on **Amazing Projects**
 
-- -💬 Ask me about **Web Development**
+> 💬 Ask me about **Web Development**
 
-- -📫 How to reach me **hanshika.mehta15@gmail.com**
+> 📫 How to reach me **hanshika.mehta15@gmail.com**
 
 
 
