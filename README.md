@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer </h3>
 <img align ="right" width="500" 
 
- >🌱 I’m currently learning **Django , AI**
+> 🌱 I’m currently learning **Django , AI**
 
 > 👯 I’m looking to collaborate on **Amazing Projects**
 
